@@ -10,11 +10,11 @@ sites:
     url: https://blog.cinte.cc
   - name: RSSHUB
     url: https://rsshub.cinte.cc
-  - name: HibiAPI
+  - name: Hibiapi
     url: https://pixiv.cinte.cc
   - name: FFXIVBOT for Migang
     url: https://bot.cinte.cc
-  - name: Migang ImgBed
+  - name: Migang Image Bed
     url: https://image.cinte.cc
   - name: Migang Storage
     url: https://drive.cinte.cc
