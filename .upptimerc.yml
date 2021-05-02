@@ -10,7 +10,7 @@ sites:
     url: https://blog.cinte.cc
   - name: RSSHUB
     url: https://rsshub.cinte.cc
-  - name: Hibiapi
+  - name: HibiAPI
     url: https://pixiv.cinte.cc
   - name: FFXIVBOT for Migang
     url: https://bot.cinte.cc
