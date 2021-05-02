@@ -10,13 +10,15 @@ sites:
     url: https://blog.cinte.cc
   - name: RSSHUB
     url: https://rsshub.cinte.cc
+  - name: HibiAPI
+    url: https://pixiv.cinte.cc
   - name: FFXIVBOT for Migang
     url: https://bot.cinte.cc
-  - name: 米缸图床
+  - name: Migang ImgBed
     url: https://image.cinte.cc
-  - name: 米缸存储
+  - name: Migang Storage
     url: https://drive.cinte.cc
-  - name: 贴吧云签到
+  - name: Tieba Sign
     url: https://tieba.19980527.xyz
 
 status-website:
