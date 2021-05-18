@@ -11,7 +11,7 @@ sites:
   - name: RSSHUB
     url: https://rsshub.cinte.cc
   - name: HibiAPI
-    url: https://pixiv.cinte.cc
+    url: https://hibiapi.cinte.cc
   - name: FFXIVBOT for Migang
     url: https://bot.cinte.cc
   - name: Migang Image Bed
