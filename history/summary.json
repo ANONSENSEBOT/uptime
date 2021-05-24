@@ -63,11 +63,11 @@
     "icon": "https://favicons.githubusercontent.com/hibiapi.cinte.cc",
     "slug": "hibi-api",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.93%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
     "time": 761,
     "timeDay": 1011,
     "timeWeek": 933,
@@ -140,9 +140,9 @@
     "url": "https://tieba.19980527.xyz",
     "icon": "https://favicons.githubusercontent.com/tieba.19980527.xyz",
     "slug": "tieba-sign",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -151,6 +151,8 @@
     "timeWeek": 234,
     "timeMonth": 291,
     "timeYear": 291,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-24": 0
+    }
   }
 ]
