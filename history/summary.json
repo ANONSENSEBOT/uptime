@@ -63,11 +63,11 @@
     "icon": "https://favicons.githubusercontent.com/hibiapi.cinte.cc",
     "slug": "hibi-api",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "99.76%",
+    "uptimeYear": "99.77%",
     "time": 858,
     "timeDay": 1135,
     "timeWeek": 1145,
@@ -85,11 +85,11 @@
     "icon": "https://favicons.githubusercontent.com/bot.cinte.cc",
     "slug": "ffxivbot-for-migang",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
-    "uptimeYear": "99.62%",
+    "uptimeYear": "99.63%",
     "time": 797,
     "timeDay": 682,
     "timeWeek": 772,
@@ -105,10 +105,10 @@
     "url": "https://image.cinte.cc",
     "icon": "https://favicons.githubusercontent.com/image.cinte.cc",
     "slug": "migang-image-bed",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 513,
@@ -116,16 +116,18 @@
     "timeWeek": 518,
     "timeMonth": 511,
     "timeYear": 513,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-03": 1
+    }
   },
   {
     "name": "Migang Storage",
     "url": "https://drive.cinte.cc",
     "icon": "https://favicons.githubusercontent.com/drive.cinte.cc",
     "slug": "migang-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -134,7 +136,9 @@
     "timeWeek": 558,
     "timeMonth": 485,
     "timeYear": 482,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-03": 0
+    }
   },
   {
     "name": "Tieba Sign",
