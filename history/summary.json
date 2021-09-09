@@ -25,19 +25,19 @@
     "url": "https://blog.cinte.cc",
     "icon": "https://favicons.githubusercontent.com/blog.cinte.cc",
     "slug": "cinte-s-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 204,
-    "timeDay": 4685,
-    "timeWeek": 1308,
-    "timeMonth": 421,
+    "timeDay": 3221,
+    "timeWeek": 1195,
+    "timeMonth": 417,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2021-09-09": 0
+      "2021-09-09": 11
     }
   },
   {
