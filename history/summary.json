@@ -165,9 +165,9 @@
     "url": "https://tieba.19980527.xyz",
     "icon": "https://favicons.githubusercontent.com/tieba.19980527.xyz",
     "slug": "tieba-sign",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
@@ -177,6 +177,7 @@
     "timeMonth": 231,
     "timeYear": 273,
     "dailyMinutesDown": {
+      "2021-12-06": 0,
       "2021-12-03": 26,
       "2021-05-24": 33
     }
