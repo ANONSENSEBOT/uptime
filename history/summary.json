@@ -46,9 +46,9 @@
     "url": "https://blog.cinte.cc",
     "icon": "https://favicons.githubusercontent.com/blog.cinte.cc",
     "slug": "cinte-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,7 +57,9 @@
     "timeWeek": 130,
     "timeMonth": 312,
     "timeYear": 182,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 0
+    }
   },
   {
     "name": "RSSHUB",
@@ -193,18 +195,18 @@
     "icon": "https://favicons.githubusercontent.com/tieba.19980527.xyz",
     "slug": "tieba-sign",
     "status": "down",
-    "uptime": "90.98%",
+    "uptime": "90.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.63%",
+    "uptimeYear": "87.44%",
     "time": 280,
     "timeDay": 141,
     "timeWeek": 190,
     "timeMonth": 162,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2022-09-15": 162,
+      "2022-09-15": 1126,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
