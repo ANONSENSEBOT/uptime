@@ -1,7 +1,7 @@
 url: https://rsshub.cinte.cc
-status: up
-code: 200
-responseTime: 718
-lastUpdated: 2023-05-01T23:06:40.131Z
+status: down
+code: 502
+responseTime: 560
+lastUpdated: 2023-05-02T05:47:10.539Z
 startTime: Mon Apr 19 2021 07:48:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
