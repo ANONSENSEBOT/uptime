@@ -4,22 +4,16 @@ repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Mobai's FFXIV Album
-    url: https://xyuki.com
   - name: Cinte's Blog
     url: https://blog.cinte.cc
   - name: RSSHUB
     url: https://rsshub.cinte.cc
-  - name: HibiAPI
-    url: https://hibiapi.cinte.cc
   - name: FFXIVBOT for Migang
     url: https://bot.cinte.cc
   - name: Migang Image Bed
     url: https://image.cinte.cc
-  - name: Migang Storage
-    url: https://drive.cinte.cc
-  - name: Tieba Sign
-    url: https://tieba.19980527.xyz
+  - name: 闪耀暖暖API
+    url: https://api.sunuannuan.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
