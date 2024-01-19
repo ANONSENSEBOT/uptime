@@ -63,18 +63,19 @@
     "url": "https://image.cinte.cc",
     "icon": "https://icons.duckduckgo.com/ip3/image.cinte.cc.ico",
     "slug": "migang-image-bed",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.91%",
     "time": 428,
     "timeDay": 707,
     "timeWeek": 826,
     "timeMonth": 866,
     "timeYear": 370,
     "dailyMinutesDown": {
+      "2024-01-19": 2,
       "2023-12-03": 33,
       "2023-07-22": 413
     }
@@ -84,9 +85,9 @@
     "url": "https://api.sunuannuan.com/api/assets?category=nikki",
     "icon": "https://icons.duckduckgo.com/ip3/api.sunuannuan.com.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -95,6 +96,8 @@
     "timeWeek": 757,
     "timeMonth": 763,
     "timeYear": 756,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-19": 0
+    }
   }
 ]
