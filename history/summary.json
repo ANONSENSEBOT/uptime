@@ -22,10 +22,10 @@
     "url": "https://rsshub.cinte.cc",
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.cinte.cc.ico",
     "slug": "rsshub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 729,
@@ -34,6 +34,7 @@
     "timeMonth": 693,
     "timeYear": 742,
     "dailyMinutesDown": {
+      "2024-04-09": 1,
       "2023-09-02": 126
     }
   },
@@ -42,18 +43,19 @@
     "url": "https://bot.cinte.cc",
     "icon": "https://icons.duckduckgo.com/ip3/bot.cinte.cc.ico",
     "slug": "ffxivbot-for-migang",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 681,
+    "time": 680,
     "timeDay": 626,
     "timeWeek": 592,
     "timeMonth": 607,
     "timeYear": 627,
     "dailyMinutesDown": {
+      "2024-04-09": 0,
       "2023-09-02": 126
     }
   },
