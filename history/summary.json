@@ -96,19 +96,19 @@
     "url": "https://api.sunuannuan.com/api/assets?category=nikki",
     "icon": "https://icons.duckduckgo.com/ip3/api.sunuannuan.com.ico",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 689,
-    "timeDay": 296,
-    "timeWeek": 238,
-    "timeMonth": 218,
-    "timeYear": 676,
+    "time": 688,
+    "timeDay": 245,
+    "timeWeek": 233,
+    "timeMonth": 217,
+    "timeYear": 675,
     "dailyMinutesDown": {
-      "2025-02-04": 0
+      "2025-02-04": 14
     }
   }
 ]
