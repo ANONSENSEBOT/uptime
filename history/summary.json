@@ -22,24 +22,25 @@
     "url": "https://rsshub.cinte.cc",
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.cinte.cc.ico",
     "slug": "rsshub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.83%",
-    "time": 459,
-    "timeDay": 268,
-    "timeWeek": 244,
-    "timeMonth": 289,
-    "timeYear": 385,
+    "time": 497,
+    "timeDay": 9901,
+    "timeWeek": 2655,
+    "timeMonth": 910,
+    "timeYear": 437,
     "dailyMinutesDown": {
       "2025-07-23": 40,
       "2025-08-20": 36,
       "2025-08-31": 159,
       "2025-08-30": 390,
       "2026-03-03": 54,
-      "2026-06-06": 191
+      "2026-06-06": 191,
+      "2026-07-10": 6
     }
   },
   {
@@ -93,17 +94,17 @@
     "url": "https://image.cinte.cc",
     "icon": "https://icons.duckduckgo.com/ip3/image.cinte.cc.ico",
     "slug": "migang-image-bed",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.66%",
-    "time": 369,
-    "timeDay": 317,
-    "timeWeek": 297,
-    "timeMonth": 326,
-    "timeYear": 386,
+    "time": 408,
+    "timeDay": 9844,
+    "timeWeek": 2682,
+    "timeMonth": 940,
+    "timeYear": 437,
     "dailyMinutesDown": {
       "2025-08-20": 34,
       "2025-08-31": 159,
@@ -111,7 +112,8 @@
       "2026-02-10": 53,
       "2026-03-03": 53,
       "2026-06-06": 445,
-      "2026-06-05": 636
+      "2026-06-05": 636,
+      "2026-07-10": 5
     }
   },
   {
@@ -119,9 +121,9 @@
     "url": "https://api.sunuannuan.com/api/assets?category=nikki",
     "icon": "https://icons.duckduckgo.com/ip3/api.sunuannuan.com.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
@@ -135,7 +137,8 @@
       "2025-08-31": 159,
       "2025-08-30": 388,
       "2026-03-03": 52,
-      "2026-06-06": 185
+      "2026-06-06": 185,
+      "2026-07-10": 0
     }
   }
 ]
