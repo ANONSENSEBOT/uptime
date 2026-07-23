@@ -52,17 +52,17 @@
     "url": "https://bot.cinte.cc",
     "icon": "https://icons.duckduckgo.com/ip3/bot.cinte.cc.ico",
     "slug": "ffxivbot-for-migang",
-    "status": "down",
+    "status": "up",
     "uptime": "98.75%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "93.87%",
-    "time": 643,
-    "timeDay": 635,
-    "timeWeek": 610,
-    "timeMonth": 592,
-    "timeYear": 615,
+    "uptimeDay": "96.05%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "93.86%",
+    "time": 642,
+    "timeDay": 551,
+    "timeWeek": 592,
+    "timeMonth": 588,
+    "timeYear": 614,
     "dailyMinutesDown": {
       "2025-09-11": 61,
       "2025-10-21": 119,
@@ -91,7 +91,7 @@
       "2026-05-19": 1330,
       "2026-06-03": 300,
       "2026-06-07": 161,
-      "2026-07-23": 0
+      "2026-07-23": 57
     }
   },
   {
