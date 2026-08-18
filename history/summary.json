@@ -22,17 +22,17 @@
     "url": "https://rsshub.cinte.cc",
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.cinte.cc.ico",
     "slug": "rsshub",
-    "status": "down",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "98.89%",
-    "time": 647,
-    "timeDay": 9831,
-    "timeWeek": 2614,
-    "timeMonth": 831,
-    "timeYear": 738,
+    "time": 653,
+    "timeDay": 7735,
+    "timeWeek": 2717,
+    "timeMonth": 913,
+    "timeYear": 746,
     "dailyMinutesDown": {
       "2025-08-20": 36,
       "2025-08-31": 159,
@@ -45,7 +45,7 @@
       "2026-07-10": 750,
       "2026-07-15": 355,
       "2026-07-14": 728,
-      "2026-08-18": 1
+      "2026-08-18": 36
     }
   },
   {
