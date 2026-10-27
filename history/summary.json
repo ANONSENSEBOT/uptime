@@ -22,17 +22,17 @@
     "url": "https://rsshub.cinte.cc",
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.cinte.cc.ico",
     "slug": "rsshub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.00%",
-    "time": 662,
-    "timeDay": 349,
-    "timeWeek": 544,
-    "timeMonth": 630,
-    "timeYear": 773,
+    "time": 661,
+    "timeDay": 254,
+    "timeWeek": 496,
+    "timeMonth": 615,
+    "timeYear": 771,
     "dailyMinutesDown": {
       "2026-03-03": 54,
       "2026-06-06": 191,
@@ -42,7 +42,8 @@
       "2026-07-10": 750,
       "2026-07-15": 355,
       "2026-07-14": 728,
-      "2026-08-18": 36
+      "2026-08-18": 36,
+      "2026-10-27": 1
     }
   },
   {
@@ -87,17 +88,17 @@
     "url": "https://image.cinte.cc",
     "icon": "https://icons.duckduckgo.com/ip3/image.cinte.cc.ico",
     "slug": "migang-image-bed",
-    "status": "up",
+    "status": "down",
     "uptime": "99.04%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.82%",
-    "time": 617,
-    "timeDay": 470,
-    "timeWeek": 417,
-    "timeMonth": 476,
-    "timeYear": 700,
+    "time": 616,
+    "timeDay": 309,
+    "timeWeek": 383,
+    "timeMonth": 465,
+    "timeYear": 698,
     "dailyMinutesDown": {
       "2026-02-10": 53,
       "2026-03-03": 53,
@@ -108,7 +109,8 @@
       "2026-07-11": 1440,
       "2026-07-10": 748,
       "2026-07-15": 355,
-      "2026-07-14": 727
+      "2026-07-14": 727,
+      "2026-10-27": 1
     }
   },
   {
@@ -116,17 +118,17 @@
     "url": "https://api.sunuannuan.com/api/assets?category=nikki",
     "icon": "https://icons.duckduckgo.com/ip3/api.sunuannuan.com.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.01%",
-    "time": 260,
-    "timeDay": 391,
-    "timeWeek": 385,
-    "timeMonth": 439,
-    "timeYear": 274,
+    "time": 259,
+    "timeDay": 268,
+    "timeWeek": 355,
+    "timeMonth": 429,
+    "timeYear": 273,
     "dailyMinutesDown": {
       "2026-03-03": 52,
       "2026-06-06": 185,
@@ -135,7 +137,8 @@
       "2026-07-11": 1440,
       "2026-07-10": 744,
       "2026-07-15": 355,
-      "2026-07-14": 722
+      "2026-07-14": 722,
+      "2026-10-27": 0
     }
   }
 ]
